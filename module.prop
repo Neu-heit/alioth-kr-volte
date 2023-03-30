@@ -1,0 +1,7 @@
+id=alioth-kr-volte
+name=alioth VoLTE
+version=v1
+versionCode=1
+author=참신성
+description=POCO F3/Redmi K40 한국통신사 VoLTE 패치
+updateJson=https://raw.githubusercontent.com/Neu-heit/alioth-kr-volte/main/update.json
