@@ -1,0 +1,1 @@
+#set_perm_recursive $MODPATH/system/vendor/firmware_mnt 1000 1000 0550 0440 u:object_r:firmware_file:s0
